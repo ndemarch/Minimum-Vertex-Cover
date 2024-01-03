@@ -1,1 +1,1 @@
-use: `mkdir buld && cd build && cmake ../ && make && ./main <input.txt >output.txt`
+use: `mkdir build && cd build && cmake ../ && make && ./main <input.txt >output.txt`
